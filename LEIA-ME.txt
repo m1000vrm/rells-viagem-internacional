@@ -1,0 +1,16 @@
+PAGE — 900 TRAVEL REELS — US VERSION
+
+HOW TO PUBLISH
+Upload index.html together with the assets folder. Keep the folder structure intact.
+
+CONFIGURATION
+Checkout: https://go.hotmart.com/R107776218N?dp=1
+Offer: Regular price $49.90 — TODAY ONLY $19.90
+Meta Pixel: 1428482079221075 (PageView preserved from the original page).
+
+CHANGES
+• Full sales-page copy translated/adapted to English for the U.S. market.
+• All bonus sections and bonus references removed.
+• Original images and sample videos preserved in /assets.
+• Hotmart checkout applied to purchase buttons.
+• Mobile layout and original interactive preview preserved.
